@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="dan:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c52732ca-54e8-4b9b-a3c9-70641b4119fa" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aOVMEuhbd8W62EPTY7XOobqIpc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../myprogs" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mainApp.App" />
+      <module name="dan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mainApp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="itmo.AppTest" />
+      <module name="dan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="itmo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.AppTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c52732ca-54e8-4b9b-a3c9-70641b4119fa" name="Default Changelist" comment="" />
+      <created>1586606576487</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586606576487</updated>
+      <workItem from="1586606583231" duration="3016000" />
+      <workItem from="1586703408069" duration="20145000" />
+      <workItem from="1586948635128" duration="125000" />
+      <workItem from="1587042762420" duration="5469000" />
+      <workItem from="1587054169257" duration="33000" />
+      <workItem from="1587206167945" duration="4880000" />
+      <workItem from="1587256396724" duration="590000" />
+      <workItem from="1587308518476" duration="3101000" />
+      <workItem from="1587327417267" duration="20000" />
+      <workItem from="1587559739899" duration="2241000" />
+      <workItem from="1587645664897" duration="3411000" />
+      <workItem from="1587710554145" duration="5865000" />
+      <workItem from="1590672965976" duration="2492000" />
+      <workItem from="1590693728473" duration="9764000" />
+      <workItem from="1590731824584" duration="12762000" />
+      <workItem from="1591338588069" duration="5681000" />
+      <workItem from="1591784569501" duration="128000" />
+    </task>
+    <task id="LOCAL-00001" summary="Исправлены баги команд. Обновлена работа некоторых команд">
+      <created>1587048207520</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587048207520</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Поправил работу скрипта">
+      <created>1587311270205</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587311270205</updated>
+    </task>
+    <task id="LOCAL-00003" summary="java dock">
+      <created>1587561866085</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587561866086</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Исправлены баги команд. Обновлена работа некоторых команд" />
+    <MESSAGE value="Поправил работу скрипта" />
+    <MESSAGE value="java dock" />
+    <option name="LAST_COMMIT_MESSAGE" value="java dock" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="658" y="358" width="594" height="398" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587559793214">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="658" y="358" width="594" height="398" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1587559793214" />
+    <state x="768" y="265" width="539" height="605" key="#com.intellij.ide.util.MemberChooser" timestamp="1586720791043">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="768" y="265" width="539" height="605" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1586720791043" />
+    <state x="533" y="149" width="844" height="816" key="CommitChangelistDialog2" timestamp="1587561863924">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="533" y="149" width="844" height="816" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1587561863924" />
+    <state x="728" y="281" width="453" height="552" key="FileChooserDialogImpl" timestamp="1587327440574">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="728" y="281" width="453" height="552" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1587327440574" />
+    <state width="1874" height="275" key="GridCell.Tab.0.bottom" timestamp="1587562003643">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="275" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1587562003643" />
+    <state width="1874" height="275" key="GridCell.Tab.0.center" timestamp="1587562003642">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="275" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1587562003642" />
+    <state width="1874" height="275" key="GridCell.Tab.0.left" timestamp="1587562003640">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="275" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1587562003640" />
+    <state width="1874" height="275" key="GridCell.Tab.0.right" timestamp="1587562003642">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="275" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1587562003642" />
+    <state x="620" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1587327415379">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="620" y="381" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1587327415379" />
+    <state x="624" y="252" key="run.anything.popup" timestamp="1586608302868">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="624" y="252" key="run.anything.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1586608302868" />
+  </component>
+</project>
